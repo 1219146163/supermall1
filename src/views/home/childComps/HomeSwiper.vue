@@ -28,5 +28,7 @@
 
 <style scoped>
 
-
+   .home-swiper{
+     padding-top: 44px;
+   }
 </style>
